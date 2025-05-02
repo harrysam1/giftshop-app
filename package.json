@@ -1,5 +1,5 @@
 {
-  "name": "gift-shop",
+  "name": "gift-shop-ngmodule",
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
@@ -28,7 +28,7 @@
     "@capacitor/preferences": "^6.0.0",
     "@capacitor/status-bar": "6.0.0",
     "@ionic/angular": "^8.0.0",
-    "ionicons": "^7.2.1",
+    "ionicons": "^7.0.0",
     "ng-otp-input": "^1.9.3",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",

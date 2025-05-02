@@ -1,7 +1,7 @@
 {
-  "name": "gift-shop",
+  "name": "gift-shop-ngmodule",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular-standalone"
+  "type": "angular"
 }
